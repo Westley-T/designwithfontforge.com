@@ -21,7 +21,7 @@ The space between any two glyph has two components: the space after the first gl
 The side bearings of characters can be edited in FontForge’s Metrics Window in five ways:
 
 - Manually dragging each side bearing boundary.
-- Manually dragging a character. Note though that dragging a character will only effect the value of the left side bearing.
+- Manually dragging a character. Note though that dragging a character will only affect the value of the left side bearing.
 - Directly editing their value in the metrics tables of the Metrics Window.
 - Incremented / decremented by using the keyboard.
 - Using commands in the Metrics Window’s Metrics menu.
